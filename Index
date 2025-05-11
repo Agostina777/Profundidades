@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">mundo marino
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página con CSS</title>Hallazgos marinos
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+        h1 {
+            color: purple;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>El mar y sus hallazgos</h1>
+    <p>Este es un párrafo con estilos CSS.</p>
+</body>
+</html>
