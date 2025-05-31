@@ -124,7 +124,7 @@
 
   <header>
     <h1>Pez Diablo</h1>
-    <p>Un pez invasor que amenaza los ecosistemas acuáticos</p>
+    <p>Pez de las profundidades descubierto por primera vez en Tenerife</p>
   </header>
 
   <nav>
@@ -138,17 +138,17 @@
     <div class="seccion" id="caracteristicas">
       <h2> Características del Pez Diablo</h2>
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Pterygoplichthys_pardalis.jpg" alt="Pez Diablo">
-      <p>El pez diablo (<em>Pterygoplichthys</em>) es un pez de origen amazónico con cuerpo alargado, cubierto de placas óseas y ventosas que usa para adherirse a las superficies. Puede sobrevivir fuera del agua por varias horas y excava madrigueras en las orillas.</p>
+      <p>El pez diablo (<em>Pterygoplichthys</em>)  Proviene de las profundidades marinas donde no llega la luz solar, se distingue por su aspecto intimidante al tener un cuerpo oscuro, una gran boca con afilados dientes y un apendice bioluminiscente que usa para atraer a sus presas en completa oscuridad.</p>
     </div>
 
     <div class="seccion" id="impacto">
       <h2> Impacto Ambiental</h2>
-      <p>Este pez se ha convertido en una especie invasora en varios países. Al reproducirse sin control, compite con peces nativos, degrada hábitats y daña infraestructuras acuáticas con sus madrigueras. Además, tiene pocas amenazas naturales fuera de su hábitat original.</p>
+      <p>Esta especie nunca sube a la superficie y cuando lo hace suele ser porque esta muerto.Algunas teorias sugieren que pudo estar huyendo de algun depredador y fue arrastrado por las corrientes o que tal vez sufria de alguna enfermedad.</p>
     </div>
 
     <div class="seccion" id="prevencion">
       <h2> Prevención y Control</h2>
-      <p>Algunas medidas para controlar su propagación incluyen campañas de concientización, eliminación controlada, uso como fertilizante o fuente de alimento animal, y evitar su liberación en ríos y lagos.</p>
+      <p>conocido tambien como "monstruo marino negro" o "rape abisal", su presencia puede indicar problemas ambientales, cambios en el habitat o en las corrientes. Para el ser humano no representa una amenaza, por otro lado algunas personas lo relacionan con presagios sobre en fin del mundo o comienzo de algo malo.</p>
     </div>
 
     <div class="seccion" id="contacto">
