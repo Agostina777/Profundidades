@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -138,7 +138,7 @@
     <div class="seccion" id="caracteristicas">
       <h2> Características del Pez Diablo</h2>
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Pterygoplichthys_pardalis.jpg" alt="Pez Diablo">
-      <p>El pez diablo (<em>Pterygoplichthys</em>)  Proviene de las profundidades marinas donde no llega la luz solar, se distingue por su aspecto intimidante al tener un cuerpo oscuro, una gran boca con afilados dientes y un apendice bioluminiscente que usa para atraer a sus presas en completa oscuridad.</p>
+      <p>El pez diablo (<em>Mejor conocido como Pez diablo negro</em>)  Proviene de las profundidades marinas donde no llega la luz solar, se distingue por su aspecto intimidante al tener un cuerpo oscuro, una gran boca con afilados dientes y un apendice bioluminiscente que usa para atraer a sus presas en completa oscuridad.</p>
     </div>
 
     <div class="seccion" id="impacto">
