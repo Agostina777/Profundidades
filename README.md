@@ -143,12 +143,12 @@
 
     <div class="seccion" id="impacto">
       <h2> Impacto Ambiental</h2>
-      <p>Esta especie nunca sube a la superficie y cuando lo hace suele ser porque esta muerto.Algunas teorias sugieren que pudo estar huyendo de algun depredador y fue arrastrado por las corrientes o que tal vez sufria de alguna enfermedad.</p>
+      <p>Esta especie nunca sube a la superficie y cuando lo hace suele ser porque esta muerto. Algunas teorias sugieren que pudo estar huyendo de algun depredador y fue arrastrado por las corrientes o que tal vez sufria de alguna enfermedad.</p>
     </div>
 
     <div class="seccion" id="prevencion">
       <h2> Prevención y Control</h2>
-      <p>conocido tambien como "monstruo marino negro" o "rape abisal", su presencia puede indicar problemas ambientales, cambios en el habitat o en las corrientes. Para el ser humano no representa una amenaza, por otro lado algunas personas lo relacionan con presagios sobre en fin del mundo o comienzo de algo malo.</p>
+      <p>Conocido tambien como "monstruo marino negro" o "rape abisal", su presencia puede indicar problemas ambientales, cambios en el habitat o en las corrientes. Para el ser humano no representa una amenaza, por otro lado algunas personas lo relacionan con presagios sobre en fin del mundo o comienzo de algo malo.</p>
     </div>
 
     <div class="seccion" id="contacto">
