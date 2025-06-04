@@ -137,7 +137,7 @@
   <div class="contenedor">
     <div class="seccion" id="caracteristicas">
       <h2> Características del Pez Diablo</h2>
-      <img src="diablo-negro_488da859_230411174609_753x500.jpg" alt="Foto pez diablo negro" style"width:300px">
+      <img src="diablo-negro_488da859_230411174609_753x500.jpg" alt="Foto pez diablo negro" style"width="300px">
       <p>El pez diablo (<em>Melanocetus johnsonii</em>)  Proviene de las profundidades marinas donde no llega la luz solar, se distingue por su aspecto intimidante al tener un cuerpo oscuro, una gran boca con afilados dientes y un apendice bioluminiscente que usa para atraer a sus presas en completa oscuridad.</p>
     </div>
 
