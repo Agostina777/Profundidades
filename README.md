@@ -216,4 +216,3 @@
     <p>&copy; 2025 Conservación Acuática | Información educativa sobre especies invasoras</p>
   </footer>
 
-</body>
