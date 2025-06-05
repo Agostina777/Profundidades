@@ -212,7 +212,7 @@
     Rescate Fauna Marina Miramar
   </h3>
   <a href="https://wa.me/5492235936243" target="_blank" title="WhatsApp" style="display: inline-block;">
-    <img src="https://img.icons8.com/color/32/whatsapp--v1.png" alt="WhatsApp" width="32" height="32" />
+    <img src="https://img.icons8.com/ios-filled/40/25D366/whatsapp--v1.png" alt="WhatsApp" width="40" height="40" />
   </a>
 </div>
     </div>
