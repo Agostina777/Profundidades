@@ -194,7 +194,12 @@
            target="_blank" style="margin: 0 20px; color: #ff0000;">
           <i class="fab fa-youtube"></i>
         </a>
-      </div>
+      <div class="whatsapp-contacto" style="text-align: center; margin-top: 30px;">
+  <h2 style="margin-bottom: 10px;">Rescate Fauna Marina Miramar</h2>
+  <a href="https://wa.me/5492235936243" target="_blank" title="WhatsApp">
+    <img src="https://img.icons8.com/ios-filled/40/25D366/whatsapp.png" alt="WhatsApp" />
+  </a>
+</div>
     </div>
 
   </div>
