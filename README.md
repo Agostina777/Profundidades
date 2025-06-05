@@ -230,7 +230,7 @@
         </a>
 <div class="whatsapp-contacto" style="text-align: center; margin-top: 30px;">
   <h3 style="font-size: 14px; color: gray; margin-bottom: 6px; font-weight: normal;">
-    Rescate Fauna Marina Miramar
+    Rescate Fauna Marina (Miramar)
   </h3>
   <a href="https://wa.me/5492235936243" target="_blank" title="WhatsApp" style="display: inline-block;">
     <img src="https://img.icons8.com/ios-filled/32/25D366/whatsapp--v1.png" alt="WhatsApp" width="35" height="35" />
