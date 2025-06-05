@@ -241,6 +241,6 @@
   </div>
 
   <footer>
-    <p>&copy; 2025 Conservación Acuática | Información educativa sobre especies invasoras</p>
+    <p>&copy; 2025 Conservación Acuática | Información educativa sobre especies marinas</p>
   </footer>
 
