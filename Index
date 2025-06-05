@@ -158,18 +158,18 @@
 
       <form id="formulario">
         <h3>Formulario de contacto</h3>
-        <input type="text" placeholder="Tu nombre" required>
-        <input type="email" placeholder="Tu correo electrónico" required>
-        <textarea placeholder="Tu mensaje" rows="5" required></textarea>
-        <button type="submit">Enviar</button>
-      <form action="https://formspree.io/f/mgegyqvn" method="POST">
-  <label for="email">Tu Email:</label><br />
-  <input name="Email" id="email" type="email" required style="margin-bottom: 10px;"><br />
+    <form action="https://formspree.io/f/mgegyqvn" method="POST" style="max-width: 500px; margin: 0 auto;">
+  <label for="name">Nombre:</label><br />
+  <input type="text" id="name" name="name" required style="width: 100%; margin-bottom: 10px;"><br />
+
+  <label for="email">Correo electrónico:</label><br />
+  <input type="email" id="email" name="email" required style="width: 100%; margin-bottom: 10px;"><br />
 
   <label for="message">Mensaje:</label><br />
-  <textarea name="Message" id="message" rows="4" required style="margin-bottom: 10px;"></textarea><br />
+  <textarea id="message" name="message" rows="5" required style="width: 100%; margin-bottom: 15px;"></textarea><br />
 
   <button type="submit">Enviar</button>
+</form>
 </form>
     </div>
 
