@@ -162,7 +162,15 @@
         <input type="email" placeholder="Tu correo electrónico" required>
         <textarea placeholder="Tu mensaje" rows="5" required></textarea>
         <button type="submit">Enviar</button>
-      </form>
+      <form action="https://formspree.io/f/mgegyqvn" method="POST">
+  <label for="email">Tu Email:</label><br />
+  <input name="Email" id="email" type="email" required style="margin-bottom: 10px;"><br />
+
+  <label for="message">Mensaje:</label><br />
+  <textarea name="Message" id="message" rows="4" required style="margin-bottom: 10px;"></textarea><br />
+
+  <button type="submit">Enviar</button>
+</form>
     </div>
 
     <div class="seccion" id="mapa">
