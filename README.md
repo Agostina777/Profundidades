@@ -198,7 +198,6 @@
 
   <button type="submit">Enviar</button>
 </form>
-    </div>
 
     <div class="seccion" id="mapa">
       <h2> Refugio de Vida Marina Cercano</h2>
