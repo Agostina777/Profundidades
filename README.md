@@ -186,15 +186,21 @@
   }
 </style>
 
-<form action="https://formspree.io/f/mgegyqvn" method="POST" class="formulario-contacto">
-  <label for="name">Nombre:</label><br />
-  <input type="text" id="name" name="name" required><br />
+<form action="https://formspree.io/f/mnnvdped" method="POST">
+  <label for="nombre">Nombre:</label>
+  <input type="text" id="nombre" name="nombre" required><br>
 
-  <label for="email">Correo electrónico:</label><br />
-  <input type="email" id="email" name="email" required><br />
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required><br>
 
-  <label for="message">Mensaje:</label><br />
-  <textarea id="message" name="message" rows="5" required></textarea><br />
+  <label for="mensaje">Mensaje:</label>
+  <textarea id="mensaje" name="mensaje" required></textarea><br>
+
+  <!-- Para que las respuestas vayan a tu correo -->
+  <input type="hidden" name="_replyto" value="flecksteinpatricia@yahoo.com">
+
+  <!-- Para redirigir después de enviar -->
+  <input type="hidden" name="_redirect" value="gracias.html">
 
   <button type="submit">Enviar</button>
 </form>
