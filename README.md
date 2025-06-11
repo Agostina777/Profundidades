@@ -196,10 +196,7 @@
   <label for="mensaje">Mensaje:</label>
   <textarea id="mensaje" name="mensaje" required></textarea><br>
 
-  <!-- Para responder desde flecksteinpatricia@yahoo.com -->
   <input type="hidden" name="_replyto" value="flecksteinpatricia@yahoo.com">
-
-  <!-- Redirección automática tras enviar -->
   <input type="hidden" name="_redirect" value="gracias.html">
 
   <button type="submit">Enviar</button>
