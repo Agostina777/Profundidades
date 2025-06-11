@@ -196,14 +196,38 @@
   <label for="mensaje">Mensaje:</label>
   <textarea id="mensaje" name="mensaje" required></textarea><br>
 
-  <!-- Para que las respuestas vayan a tu correo -->
+  <!-- Para responder desde flecksteinpatricia@yahoo.com -->
   <input type="hidden" name="_replyto" value="flecksteinpatricia@yahoo.com">
 
-  <!-- Para redirigir después de enviar -->
+  <!-- Redirección automática tras enviar -->
   <input type="hidden" name="_redirect" value="gracias.html">
 
   <button type="submit">Enviar</button>
 </form>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gracias</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background-color: #f1f1f1;
+    }
+    h1 {
+      color: #4CAF50;
+    }
+  </style>
+</head>
+<body>
+  <h1>¡Gracias por tu mensaje!</h1>
+  <p>Tu formulario fue enviado correctamente. Te responderemos pronto.</p>
+  <a href="index.html">Volver al inicio</a>
+</body>
+</html>
 
     <div class="seccion" id="mapa">
       <h2> Refugio de Vida Marina Cercano</h2>
