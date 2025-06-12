@@ -186,20 +186,20 @@
   }
 </style>
 
-<form action="https://formspree.io/f/mnnvdped" method="POST">
-  <label for="nombre">Nombre:</label>
-  <input type="text" id="nombre" name="nombre" required><br>
-
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required><br>
-
-  <label for="mensaje">Mensaje:</label>
-  <textarea id="mensaje" name="mensaje" required></textarea><br>
-
-  <input type="hidden" name="_replyto" value="flecksteinpatricia@yahoo.com">
-  <input type="hidden" name="_redirect" value="gracias.html">
-
-  <button type="submit">Enviar</button>
+<form
+  action="https://formspree.io/f/mnnvdped"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="flecksteinpatricia@gmail.com" name="flecksteinpatricia@gmail.com">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
 
 
