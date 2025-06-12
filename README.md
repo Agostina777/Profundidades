@@ -223,7 +223,7 @@
    
       
        
-  <button type="submit">Send</button>
+  <button type="submit">Enviar</button>
 </form>
 </div>
     <!-- end contact section -->
