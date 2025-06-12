@@ -196,7 +196,8 @@
     <div class="row">
       <div class="col-md-6"> <!-- Sin clases como mx-auto ni ms-auto -->
 
-        <form action="https://formspree.io/f/mnnvdped" method="POST">
+        <form action="https://formspree.io/f/mnnvdped"
+  method="POST"
           <div class="mb-3">
             <label for="nombre" class="form-label">Nombre:</label>
             <input type="text" class="form-control" name="nombre" id="nombre" required>
