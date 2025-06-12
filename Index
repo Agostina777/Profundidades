@@ -189,7 +189,7 @@
 <form action="https://formspree.io/f/mnnvdped" method="POST">
   <label>
     Tu correo electrónico:
-    <input type="email" name="email" required>
+    <input type="flecksteinpatricia@yahoo.com" name="flecksteinpatricia@yahoo.com" required>
   </label>
   <br>
   <label>
