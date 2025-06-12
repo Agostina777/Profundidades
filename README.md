@@ -217,7 +217,7 @@
 
   <label>
     Escriba su consulta:
-    <input name="message"></input>
+    <input name="message">
   </label>
   <!-- your other form fields go here -->
    
