@@ -186,21 +186,51 @@
   }
 </style>
 
-<form action="https://formspree.io/f/mnnvdped" method="POST">
-  <label>
-    Tu correo electrónico:
-    <input type="flecksteinpatricia@yahoo.com" name="flecksteinpatricia@yahoo.com" required>
-  </label>
-  <br>
-  <label>
-    Tu mensaje:
-    <textarea name="message" required></textarea>
-  </label>
-  <br>
-  <button type="submit">Enviar</button>
+<!-- contact section -->
+ <section class="contact_section layout_padding">
+      <div class="custom_heading-container">
+        <h3 class=" ">
+          Envianos tu consulta
+        </h3>
+       
+      </div>
+      
+       
+      <div class="container layout_padding2-top">
+        <div class="row">
+
+         
+          <div class="col-md-6 mx-auto">
+             
+
+<form
+  action="https://formspree.io/f/mnnvdped"
+  method="POST"
+><label>
+    Nombre:
+    <input type="nombre" name="nombre">
+  </label>
+  <label>
+    Telefono:
+    <input type="Telefono" name="Telefono">
+  </label>
+  <label>
+    Email:
+    <input type="email" name="email">
+  </label>
+
+  <label>
+    Escriba su consulta:
+    <input name="message"></input>
+  </label>
+  <!-- your other form fields go here -->
+   
+      
+       
+  <button type="submit">Send</button>
 </form>
-<input type="hidden" name="_replyto" value="flecksteinpatricia@yahoo.com">
-</form>
+</div>
+    <!-- end contact section -->
 
     <div class="seccion" id="mapa">
       <h2> Refugio de Vida Marina Cercano</h2>
