@@ -186,47 +186,21 @@
   }
 </style>
 
-<!-- contact section -->
- <section class="contact_section layout_padding">
-      <div class="custom_heading-container">
-        <h3 class=" ">
-          Envianos tu consulta
-        </h3>
-       
-      </div>
-      
-       
-      <div class="container layout_padding2-top">
-        <div class="row">
-
-         
-          <div class="col-md-6 mx-auto">
-             
-
 <form
   action="https://formspree.io/f/mnnvdped"
   method="POST"
-><label>
-    Nombre:
-    <input type="nombre" name="nombre">
-  </label>
+>
   <label>
-    Email:
+    Your email:
     <input type="email" name="email">
   </label>
-
   <label>
-    Escriba su consulta:
-    <input name="message">
+    Your message:
+    <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
-   
-      
-       
-  <button type="submit">Enviar</button>
+  <button type="submit">Send</button>
 </form>
-</div>
-    <!-- end contact section -->
 
 
     <div class="seccion" id="mapa">
