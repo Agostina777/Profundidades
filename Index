@@ -191,15 +191,15 @@
   method="POST"
 >
   <label>
-    Your email:
+    Email:
     <input type="email" name="email">
   </label>
   <label>
-    Your message:
+    Mensaje:
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit">Enviar</button>
 </form>
 
     <div class="seccion" id="mapa">
