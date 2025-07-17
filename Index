@@ -188,7 +188,7 @@
 
 <form
   action="https://formspree.io/f/xpwlznbe"
-  method="POST"
+  method="post"
 >
   <label>
     Email:
