@@ -186,8 +186,10 @@
   }
 </style>
 
-<form class"form" action="https://formspree.io/f/xpwlznbe" method="post">
-  <
+<form
+  action="https://formspree.io/f/xpwlznbe"
+  method="POST"
+>
   <label>
     Email:
     <input type="email" name="email">
