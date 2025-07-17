@@ -186,9 +186,7 @@
   }
 </style>
 
-<form
-  action="https://formspree.io/f/xpwlznbe"
-  method="post"
+<form class"form" action="https://formspree.io/f/xpwlznbe" method="post">
 >
   <label>
     Email:
